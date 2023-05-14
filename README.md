@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Minha Jornada 😁
 
  <div>
    <a href="https://github.com/josivanjunior">
